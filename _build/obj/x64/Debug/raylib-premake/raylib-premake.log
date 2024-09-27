@@ -1,0 +1,13 @@
+﻿  board.cpp
+C:\Users\anhtr\Downloads\raylib-premake\game\src\board.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  boardview.cpp
+  raylib_game.cpp
+C:\Users\anhtr\Downloads\raylib-premake\raylib-master\src\raygui.h(2658,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../game/src/raylib_game.cpp')
+  
+C:\Users\anhtr\Downloads\raylib-premake\game\src\raylib_game.cpp(37,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\anhtr\Downloads\raylib-premake\game\src\raylib_game.cpp(38,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\anhtr\Downloads\raylib-premake\game\src\raylib_game.cpp(93,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anhtr\Downloads\raylib-premake\game\src\raylib_game.cpp(96,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  raylib-premake.vcxproj -> C:\Users\anhtr\Downloads\raylib-premake\_bin\Debug\raylib-premake.exe
